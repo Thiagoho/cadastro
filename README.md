@@ -11,14 +11,14 @@
 📃 Contato<br>
 <h4>Exemplo de README.md para o seu projeto Django com Djando Rest Framework</h4>
 # Cadastro API.<br>
-Esta projeto é uma API RestFul desenvolvida em Django Rest FrameWord para gerenciar eventos e participantes.<br>
+Esta projeto é uma API RestFul desenvolvida em Django Rest FrameWord para gerenciar eventos e participantes.<br><br>
 ## Descrição do Projeto.<br>
 A APi permite criar, listar, atualizar e deletar informações sobre eventos e participantes.<br>
-É uma solução útil para gerenciar cadastro em eventos de forma eficiente e organizada.<br>
+É uma solução útil para gerenciar cadastro em eventos de forma eficiente e organizada.<br><br>
 ## Pré-requistos.<br>
-Antes de começar, certifique-se de ter o python e o `pip` instalados em seu sistema.
+Antes de começar, certifique-se de ter o python e o `pip` instalados em seu sistema.<br><br>
 - **Python** (versão 3.7 ou superior)<br>
-- **pip** (gerenciador de pacotes do Python)<br>
+- **pip** (gerenciador de pacotes do Python)<br><br>
 ## Instruções de Instalação <br>
 1. **Clone o repositório:**<br>
 ``bash<br>
